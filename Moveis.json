@@ -8,7 +8,7 @@
                     "autor": "Robson Santos da Silva",
                     "ano": 2013,
                     "paginas": 168,
-                    "capa": "https://s3.novatec.com.br/capas/9788575223505.jpg"
+                    "capa": "https://github.com/RCSilva1964/Sources/blob/master/um.jpg"
                 }
             ]
         },
@@ -20,14 +20,14 @@
                     "autor": "Pramod J. Sadalage / Martin Fowler",
                     "ano": 2013,
                     "paginas": 216,
-                    "capa": "https://s3.novatec.com.br/capas/9788575223383.jpg"
+                    "capa": "https://github.com/RCSilva1964/Sources/blob/master/dois.jpg.jpg"
                 },
                 {
                     "titulo": "Fundamentos de Bancos de Dados com C#",
                     "autor": "Michael Schmalz",
                     "ano": 2012,
                     "paginas": 120,
-                    "capa": "https://s3.novatec.com.br/capas/9788575223154.jpg"
+                    "capa": "https://github.com/RCSilva1964/Sources/blob/master/tres.jpg"
                 }
             ]
         },
